@@ -1,0 +1,3 @@
+cd C:\Users\hp\Desktop\FaceDetection-master
+
+python face_detection.py 4.jpg harrcascade_frontalface_default.xml
